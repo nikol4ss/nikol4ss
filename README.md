@@ -1,13 +1,17 @@
-# **Olá, meu nome é Nikolas** 🖐🏻
+# **Saudações, meu nome é Nikolas** 🖐🏻 
 
-[Traduzir para o Português](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/isNikol4s/isNikol4s#)
+### **Desenvolvedor Fullstack Junior**
+#### Gosto de resolver problemas e transformar desafios em soluções inovadoras. <br> Estudo de forma autodidata na Udemy, buscando aprimorar minhas habilidades e conhecimentos.
+
+<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikol4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kolau_/)
 
 ![isNikol4s GitHub stats](https://github-readme-stats.vercel.app/api?username=isNikol4s&show_icons=true&theme=transparent)
+<br>
 
-## Tecnologias que uso diariamente 🧑🏻‍💻
+# Tecnologias que uso diariamente 🧑🏻‍💻
 <div style="display: inline-block">
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

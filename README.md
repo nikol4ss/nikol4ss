@@ -1,5 +1,12 @@
 # **Olá, meu nome é Nikolas** 🖐🏻
 
+<table align="left">
+  <tr><td><a href="README.md">English</a></td></tr>
+  <tr><td><a href="README_PT-BR.md">Português</a></td></tr>
+</table>
+
+br br
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikol4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kolau_/)
 

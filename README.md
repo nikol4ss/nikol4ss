@@ -1,7 +1,6 @@
 # **Olá, meu nome é Nikolas** 🖐🏻
 
-[![Translate to Portuguese](https://img.shields.io/badge/Traduzir%20para-Portugu%C3%AAs-blue.svg)](https://translate.google.com/?sl=en&tl=pt&u=https://raw.githubusercontent.com/seu-usuario/README.md/master/README.md)
-
+[Traduzir para o Português](https://translate.google.com/translate?sl=auto&tl=pt&u=https://github.com/isNikol4s/isNikol4s#)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikol4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kolau_/)

@@ -1,9 +1,8 @@
-# **Saudações, meu nome é Nikolas** 🖐🏻 
+# **Greetings, I'm Nikolas, data engineer.** 🖐🏻
 
-### **Desenvolvedor Fullstack Junior**
-#### Gosto de resolver problemas e transformar desafios em soluções inovadoras. <br> Estudo de forma autodidata na Udemy, buscando aprimorar minhas habilidades e conhecimentos.
+### I like solving problems and transforming them into innovative solutions. <br> I'm a student at Ada Tech, fascinated by structuring algorithms.
 
-<br>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nikol4s)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n1kolau_/)

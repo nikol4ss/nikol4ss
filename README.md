@@ -1,16 +1,10 @@
 ```js
-import Desenvolvedor from "Nikolas";
+import Developer from "nikol4s";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Nikolas";
-  area = "Desenvolvedor FullStack";
-  trabalho = "Grupo Capsul Brasil";
-  local = "Minas Gerais, Brasil";
+class AboutMe extends Developer {
+name = "Nikolas";
+area = "FullStack Developer";
+job = "Capsul Brazil Group";
+location = "Minas Gerais, Brazil";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
-  bibliotecas = ["Suas bibliotecas"];
-  frameworks = ["Seus frameworks"];
-}
-```

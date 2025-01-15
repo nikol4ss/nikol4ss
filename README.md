@@ -1,27 +1,27 @@
-```js
-import Developer from "nikol4s";
+### Full Stack Developer | Project Manager
 
-class AboutMe extends Developer {
-name = "Nikolas";
-area = "FullStack Developer";
-job = "Grupo Capsul Brasil";
-location = "Minas Gerais, Brazil";
-}
-```
-[![isNikol4s](https://github-readme-stats.vercel.app/api/top-langs/?username=nikol4ss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+🔹 **Experience**:  
+With 1 year of experience as a Full Stack Developer, I work with **TypeScript**, **Vue.js**, **Node.js**, **Docker**, and **MongoDB**. I am also working with **Aeria Lang**, a custom language created to optimize our systems.
 
-### Today I work with these technologies
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-[![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.linkedin.com/in/nikol4s)
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.linkedin.com/in/nikol4s)
+🔹 **Current Role**:  
+I am a **Full Stack Developer** and **Project Manager** at **Capsul**, providing solutions for **Capsul Brasil**, the largest encapsulation company in Latin America. We work with the **Arco** logistics platform, built with **Aeria Lang** and **Python**.
 
-### My social networks, follow me to network
+[](https://aeria.land/docs/aeria/) `Visit Aeria Lang`
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikol4s)
-[![overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.linkedin.com/in/nikol4s)
 
+
+🔹 **Entrepreneurship**:  
+Founder of **Neexium**, an RPA automation startup, where I use **Python** to create scalable solutions.
+
+---
+
+📍 **Location**: Minas Gerais, Brazil  
+💼 **Work**: Capsul Brasil  
+📧 **Email**: [nikolassc4mpos@gmail.com](mailto:nikolassc4mpos@gmail.com)

@@ -13,9 +13,7 @@ With 1 year of experience as a Full Stack Developer, I work with **TypeScript**,
 🔹 **Current Role**:  
 I am a **Full Stack Developer** and **Project Manager** at **Capsul**, providing solutions for **Capsul Brasil**, the largest encapsulation company in Latin America. We work with the **Arco** logistics platform, built with **Aeria Lang** and **Python**.
 
-[](https://aeria.land/docs/aeria/) `Visit Aeria Lang`
-
-
+[ `Visit Aeria Lang` ](https://aeria.land/docs/aeria/)
 
 🔹 **Entrepreneurship**:  
 Founder of **Neexium**, an RPA automation startup, where I use **Python** to create scalable solutions.

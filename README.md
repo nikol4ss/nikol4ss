@@ -18,6 +18,8 @@ I am a **Full Stack Developer** and **Project Manager** at **Capsul**, providing
 🔹 **Entrepreneurship**:  
 Founder of **Neexium**, an RPA automation startup, where I use **Python** to create scalable solutions.
 
+[ `Visit our RPA startup` ](https://aeria.land/docs/aeria/)
+
 ---
 
 📍 **Location**: Minas Gerais, Brazil  

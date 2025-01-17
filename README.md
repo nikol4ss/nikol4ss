@@ -1,7 +1,7 @@
 ### Full Stack Developer | Project Manager
 
 🔹 **Experience**:  
-With 1 year of experience as a Full Stack Developer, I work with **TypeScript**, **Vue.js**, **Node.js**, **Docker**, and **MongoDB**. I am also working with **Aeria Lang**, a custom language created to optimize our systems.
+With 1 year of experience as a Full Stack Developer, I work with **TypeScript**, **Vue.js**, **Node.js**, **Docker**, and **MongoDB**. I am also working with **Aeria Lang**, a language used to implement issues, created by my Tech Leader.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -11,8 +11,7 @@ With 1 year of experience as a Full Stack Developer, I work with **TypeScript**,
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
 🔹 **Current Role**:  
-I am a **Full Stack Developer** and **Project Manager** at **Capsul**, providing solutions for **Capsul Brasil**, the largest encapsulation company in Latin America. We work with the **Arco** logistics platform, built with **Aeria Lang** and **Python**.
-
+I am a **Full Stack Developer** and **Project Manager** at **Capsul**, the largest encapsulation company in Latin America. We developed a comprehensive logistics system called **Arco**, using **Aeria Lang** and **Python**.
 [ `Visit Aeria Lang` ](https://aeria.land/docs/aeria/)
 
 🔹 **Entrepreneurship**:  

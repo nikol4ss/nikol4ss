@@ -1,6 +1,4 @@
-## Software Developer
+developer backend - 1 year in the market in python/typescript<br>
+I like algorithms and logic, problem abstraction, creating microservices to implement, i have a tactical approach to learning new technologies, I use different methodologies in my workspace<br>
 
-I enjoy infrastructure, logic, and solving problems. 
-I have a knack for learning new technologies, and I can code in Python and TypeScript.
-
-If you want to chat or make a deal: [nikolassc4mpos@gmail.com](mailto:nikolassc4mpos@gmail.com)
+let's network, talk to me here: [nikolassc4mpos@gmail.com](mailto:nikolassc4mpos@gmail.com)

@@ -10,5 +10,3 @@
 - **Architecture & Patterns:** SOLID, DDD, Repository & Service Layer  
 - **DevOps & Tools:** Docker, Git/GitHub, CI/CD pipelines, code review, agile workflow (Scrum/Kanban)  
 - **Integration:** REST APIs, system-to-system communication, observability, error handling  
-
-**Focus:** delivering solutions with attention to **performance, scalability, reliability, and maintainability**, implementing best practices recognized by dev teams and tech leads.

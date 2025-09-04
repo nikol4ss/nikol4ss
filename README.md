@@ -1,6 +1,6 @@
 # Nikolas Campos – Software Developer
 
->Fullstack developer | 2 years experience | Building fully integrated application stacks and data pipelines (ETL/RPA)
+> Fullstack developer | 2 years experience | Building fully integrated application stacks and data pipelines (ETL/RPA)
 
 - **Backend:** Python (Django, DRF, FastAPI), APIs, microservices, authentication, versioning  
 - **Frontend:** Vue 3, reactive & modular components, state management (Pinia, Vuex), Tailwind CSS, Vite  
@@ -10,3 +10,8 @@
 - **Architecture & Patterns:** SOLID, DDD, Repository & Service Layer  
 - **DevOps & Tools:** Docker, Git/GitHub, CI/CD pipelines, code review, agile workflow (Scrum/Kanban)  
 - **Integration:** REST APIs, system-to-system communication, observability, error handling  
+
+---
+
+> Let's network [nikolassc4mpos@gmail.com](mailto:nikolassc4mpos@gmail.com)
+

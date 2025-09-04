@@ -1,34 +1,14 @@
-# Nikolas Fullstack Developer
+# Nikolas Campos – Software Developer
 
-Fullstack developer | 2 years experience | End-to-end systems, APIs, ETL/RPA pipelines
+> Fullstack developer | 2 years experience | Building fully integrated application stacks and data pipelines (ETL/RPA)
 
-I build software across **all layers**: backend, frontend, and database, focusing on modular, maintainable, and testable code.
+- **Backend:** Python (Django, DRF, FastAPI), APIs, microservices, authentication, versioning  
+- **Frontend:** Vue 3, reactive & modular components, state management (Pinia, Vuex), Tailwind CSS, Vite  
+- **Databases:** PostgreSQL, SQL Server, MongoDB, data modeling, complex queries, views, stored procedures, indexing  
+- **Data & ETL:** Pandas, data transformation, pipelines, automation (RPA)  
+- **Testing:** Pytest (unit & integration), Selenium (functional)  
+- **Architecture & Patterns:** SOLID, DDD, Repository & Service Layer  
+- **DevOps & Tools:** Docker, Git/GitHub, CI/CD pipelines, code review, agile workflow (Scrum/Kanban)  
+- **Integration:** REST APIs, system-to-system communication, observability, error handling  
 
----
-
-## Backend
-- **Languages & Frameworks:** Python (Django, DRF, FastAPI)  
-- **Patterns & Principles:** SOLID, DDD, Repository, Service Layer  
-- **APIs & Microservices:** design, integration, authentication, versioning  
-- **Data & ORM:** SQLAlchemy, Prisma, Pandas for ETL/transformations  
-- **Testing & QA:** Pytest (unit/integration), Selenium (functional)
-
-## Frontend
-- **Framework:** Vue 3 – component-based, reactive, modular  
-- **State Management:** Pinia, Vuex  
-- **Styling & Performance:** Tailwind CSS, Vite build optimization  
-- **Integration:** REST API consumption with error handling & observability  
-
-## Databases
-- **SQL & NoSQL:** PostgreSQL, SQL Server, MongoDB  
-- **Tasks:** data modeling, queries, views, stored procedures, indexing
-
-## DevOps & Tools
-- Docker containers & images  
-- Git/GitHub versioning, CI/CD pipelines  
-- Automation: RPA & Selenium  
-- Agile workflow: Scrum & Kanban, code review, CI/CD best practices
-
----
-
-**Focus:** end-to-end solutions with attention to **performance, scalability, reliability, and maintainability**. Work across **all layers** of software, from data to UI, implementing patterns and best practices recognized by dev teams and tech leads.
+**Focus:** delivering solutions with attention to **performance, scalability, reliability, and maintainability**, implementing best practices recognized by dev teams and tech leads.

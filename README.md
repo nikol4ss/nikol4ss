@@ -1,17 +1,10 @@
-# Nikolas Campos – Software Developer
+## Nikolas Campos – Software Engineer
+### Three years in the market, developing, architecting, and implementing logical and exponential solutions.
 
-> Fullstack developer | 3 years experience | Building fully integrated application stacks and data pipelines (ETL/RPA)
-
-- **Backend:** Python (Django, DRF, FastAPI), PHP (Laravel), APIs, microservices, authentication, versioning  
-- **Frontend:** Vue 3, reactive & modular components, state management (Pinia, Vuex), Tailwind CSS, Vite  
-- **Databases:** PostgreSQL, SQL Server, MongoDB, data modeling, complex queries, views, stored procedures, indexing  
-- **Data & ETL:** Pandas, data transformation, pipelines, automation (RPA)  
-- **Testing:** Pytest (unit & integration), Selenium (functional)  
-- **Architecture & Patterns:** SOLID, DDD, Repository & Service Layer  
-- **DevOps & Tools:** Docker, Git/GitHub, CI/CD pipelines, code review, agile workflow (Scrum/Kanban)  
-- **Integration:** REST APIs, system-to-system communication, observability, error handling  
+I work as a full-stack developer, creating and maintaining backends, frontends, APIs, databases (ETL), and automations (RPA). I apply best practices such as code reviews, clean code, unit testing, version control, and CI/CD, with a focus on security, modularity, and patterns like SOLID, DDD, Repository, and Service Layer.
 
 ---
 
-> Let's network [nikolassc4mpos@gmail.com](mailto:nikolassc4mpos@gmail.com)
+Let's program algorithm with me on [LeetCode](https://leetcode.com/profile/)
 
+Ask me any technical questions at [StackOverflow](https://stackoverflow.com/users/31046350/nikolas-campos?tab=profile)

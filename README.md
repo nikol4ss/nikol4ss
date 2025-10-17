@@ -5,6 +5,4 @@ I work as a full-stack developer, creating and maintaining backends, frontends, 
 
 ---
 
-Let's program algorithm with me on [LeetCode](https://leetcode.com/u/nikol4ss/)
-
 Ask me any technical questions at [StackOverflow](https://stackoverflow.com/users/31046350/nikolas-campos?tab=profile)

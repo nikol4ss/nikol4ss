@@ -1,5 +1,3 @@
 Hello,
 
-3+ years building and maintaining RESTful APIs with Fastify for modular architectures with full control over routing and plugins, AdonisJS for microservices creation with integrated structure, and containerizing applications with Docker.
-
-Any technical questions? [Ask me on Stack Overflow](https://stackoverflow.com/users/31046350/nikolas-campos)
+3+ years building and maintaining RESTful APIs with Node.js and TypeScript, using Django REST Framework in Python to create microservices with a structure focused on system integration and containerization with Docker.
